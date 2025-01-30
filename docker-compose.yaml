@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "ashudurge/node-app-demo:latest"
+    image: "ashudurge/node-app-demo-ashwini:latest"
     ports:
       - "8000:8000"
